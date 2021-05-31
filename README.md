@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project generates dynamic animated text using Giphy's API and lists gif using giphy's react API. Check this link for more reference https://www.freecodecamp.org/news/giphy-api-tutorial/
 ## Available Scripts
 
 In the project directory, you can run:
